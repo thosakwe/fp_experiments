@@ -1,0 +1,1 @@
+main = putStrLn "Hello, why is there no IDE?"
